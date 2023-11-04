@@ -1,0 +1,31 @@
+:root {
+  --collection-1-width: 1440px;
+}
+
+/*
+
+To enable a theme in your HTML, simply add one of the following data attributes to an HTML element, like so:
+
+<body data-collection-1-mode="desktop">
+    <!-- the rest of your content -->
+</body>
+
+You can apply the theme on any DOM node, not just the `body`
+
+*/
+
+[data-collection-1-mode="desktop"] {
+  --collection-1-width: 1440px;
+}
+
+[data-collection-1-mode="tablet-l"] {
+  --collection-1-width: 1024px;
+}
+
+[data-collection-1-mode="tablet-s"] {
+  --collection-1-width: 744px;
+}
+
+[data-collection-1-mode="mobile"] {
+  --collection-1-width: 374px;
+}

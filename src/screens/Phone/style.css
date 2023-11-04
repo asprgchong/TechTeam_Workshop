@@ -1,0 +1,215 @@
+.phone {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.phone .frame {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.phone .div {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.phone .navbar {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.phone .project {
+  margin-right: -2px;
+  position: relative;
+}
+
+.phone .overlap-group {
+  position: relative;
+}
+
+.phone .rectangle {
+  background-color: #bf6129;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.phone .text-wrapper {
+  color: #592e15;
+  font-family: "Inter", Helvetica;
+  font-weight: 200;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.phone .about {
+  margin-right: -2px;
+  position: relative;
+}
+
+.phone .overlap {
+  position: relative;
+}
+
+.phone .rectangle-2 {
+  background-color: #bf6129;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.phone .text-wrapper-2 {
+  color: #592e15;
+  font-family: "Inter", Helvetica;
+  font-weight: 200;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.phone .contact {
+  margin-right: -2px;
+  position: relative;
+}
+
+.phone .overlap-2 {
+  position: relative;
+}
+
+.phone .rectangle-3 {
+  background-color: #bf6129;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.phone .text-wrapper-3 {
+  color: #592e15;
+  font-family: "Inter", Helvetica;
+  font-weight: 200;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.phone .this-is-geralyn {
+  color: #8c391b;
+  font-family: "Major Mono Display", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+}
+
+.phone .skills {
+  position: relative;
+}
+
+.phone .image {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
+
+.phone .img {
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+}
+
+.phone .php-logo-png {
+  object-fit: cover;
+  position: absolute;
+}
+
+.phone .frame-wrapper {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.phone .frame-2 {
+  position: relative;
+}
+
+.phone .frame-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.phone .project-title {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.phone .header {
+  background-color: #bf6129;
+  position: relative;
+}
+
+.phone .text-wrapper-4 {
+  color: #0d0d0d;
+  font-family: "Major Mono Display", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.phone .project-cards {
+  position: relative;
+}
+
+.phone .rectangle-4 {
+  background-color: #c08654;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.phone .rectangle-5 {
+  background-color: #c08654;
+  position: absolute;
+  top: 0;
+}
+
+.phone .rectangle-6 {
+  background-color: #c08654;
+  position: absolute;
+  top: 0;
+}
+
+.phone .frame-4 {
+  align-self: stretch;
+  background-color: #592e15;
+  position: relative;
+  width: 100%;
+}
